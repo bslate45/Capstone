@@ -1,0 +1,110 @@
+Enter student's full name (First Last): Bradley S
+
+
+Enter student's four digit student ID: 1111
+
+---The quiz will begin now---
+
+
+What is 1 + 1?
+A) 0
+B) 1
+C) 2
+D) 3
+c
+The student answered:  c  in  3.59357  seconds.
+
+What is 1 - 1?
+A) 0
+B) 1
+C) 2
+D) 3
+a
+The student answered:  a  in  0.3281  seconds.
+
+What is 1 * 1?
+A) 0
+B) 1
+C) 2
+D) 3
+b
+The student answered:  b  in  0.281237  seconds.
+
+What is 1 / 1?
+A) 0
+B) 1
+C) 2
+D) 3
+b
+The student answered:  b  in  0.343651  seconds.
+
+What is 1 + 2?
+A) 0
+B) 1
+C) 2
+D) 3
+d
+The student answered:  d  in  0.32817  seconds.
+
+Is there another student taking the test? y
+
+Enter student's full name (First Last): brittany d
+
+
+Enter student's four digit student ID: 2222
+
+---The quiz will begin now---
+
+
+What is 1 + 1?
+A) 0
+B) 1
+C) 2
+D) 3
+c
+The student answered:  c  in  2.453645  seconds.
+
+What is 1 - 1?
+A) 0
+B) 1
+C) 2
+D) 3
+a
+The student answered:  a  in  1.484273  seconds.
+
+What is 1 * 1?
+A) 0
+B) 1
+C) 2
+D) 3
+b
+The student answered:  b  in  1.109293  seconds.
+
+What is 1 / 1?
+A) 0
+B) 1
+C) 2
+D) 3
+b
+The student answered:  b  in  0.281228  seconds.
+
+What is 1 + 2?
+A) 0
+B) 1
+C) 2
+D) 3
+d
+The student answered:  d  in  1.218665  seconds.
+
+Is there another student taking the test? n
+
+This is the report for Bradley S student id number: 1111
+The student was flagged for cheating on question:  2
+The student was flagged for cheating on question:  3
+The student was flagged for cheating on question:  4
+The student was flagged for cheating on question:  5
+Number of flagged questions:  4 out of 5
+
+This is the report for brittany d student id number: 2222
+The student was flagged for cheating on question:  4
+Number of flagged questions:  1 out of 5
